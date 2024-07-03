@@ -1,0 +1,8 @@
+streamlit
+selenium
+webdriver-manager
+opencv-python-headless
+numpy
+requests
+moviepy
+pydub
